@@ -58,7 +58,7 @@ cd client && npm install
 cd backend && npx ts-node src/scripts/seed.ts
 
 # View Database (MongoDB Compass or mongosh)
-# Connection: mongodb+srv://darshankharva11_db_user:4KsHugHq7tvVeKtg@portal.axjv7wl.mongodb.net
+# Connection:
 ```
 
 ---
